@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Author
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Author\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=first\ last
+comment1.target=Author(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ FullName()
+numComments=3

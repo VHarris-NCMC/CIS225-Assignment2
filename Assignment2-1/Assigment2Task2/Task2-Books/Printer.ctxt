@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Printer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Printer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=book
+comment1.target=void\ PrintPublicationDate(Book)
+comment2.params=book
+comment2.target=void\ PrintAuthor(Book)
+comment3.params=book
+comment3.target=void\ PrintISBN(Book)
+comment4.params=book
+comment4.target=void\ PrintPageCount(Book)
+comment5.params=book
+comment5.target=void\ PrintTitle(Book)
+comment6.params=book
+comment6.target=void\ PrintAll(Book)
+numComments=7
