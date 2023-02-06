@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BillOfSale
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BillOfSale\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=c\ type\ numFeatures\ amount
+comment1.target=BillOfSale(Customer,\ Product.Design,\ int,\ int)
+comment2.params=
+comment2.target=void\ PrintDetails()
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CRM
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CRM\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=CRM()
+comment2.params=customer
+comment2.target=void\ AddCustomer(Customer)
+comment3.params=
+comment3.target=int\ GetUniqueID()
+comment4.params=
+comment4.target=int\ getUniqueInvoiceNumber()
+comment5.params=
+comment5.target=void\ generateProducts()
+comment6.params=design\ numberOfOptionalFeatures
+comment6.target=java.lang.String\ GetQuote(Product.Design,\ int)
+comment7.params=design\ numberOfOptionalFeatures
+comment7.target=int\ getCost(Product.Design,\ int)
+comment8.params=
+comment8.target=void\ printOrders()
+comment9.params=c\ type\ features
+comment9.target=void\ submitOrder(Customer,\ Product.Design,\ int)
+numComments=10
