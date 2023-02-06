@@ -20,6 +20,11 @@ public class Book
        publicationDate = new Date(publicationMonth, publicationDay, publicationYear); 
        title = bookTitle; 
        pageCount = numberOfPages;
+       if (numberOfPages < 10)
+       {
+           System.out.println("Warning: Page count less than 10");
+           
+       }
        
        
    }
